@@ -1,0 +1,43 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+
+}
+.divmain {
+  display: flex;
+   justify-content: space-between;
+  
+}
+ span ,img{
+  margin-right: 20px;
+} 
+.div0span> span {
+  font-weight: bold;
+}
+
+.div0 {
+  display: flex;
+  flex-direction: column ;
+}
+
+
+.div1 {
+  display: flex;
+}
+
+.div2 {
+  display: flex;
+}
+
+.divright {
+  display: flex;
+  flex-direction: column;
+}
+
+.section1 {
+  background-color: #f5f9fa;
+}
+
+.trynow {
+  background-color: #00B3A3;
+}
